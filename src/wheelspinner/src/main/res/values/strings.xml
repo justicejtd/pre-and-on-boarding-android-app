@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Content descriptions-->
+    <string name="contentDescription_red_yellow_wheel_spinner">Red and yellow wheel spinner image</string>
+    <string name="contentDescription_wheel_target">Wheel target image</string>
+    <string name="contentDescription_play_circle_icon">Play circle icon</string>
+    <string name="contentDescription_linkedin_icon">Linkedin icon</string>
+    <string name="contentDescription_email_icon">Email icon</string>
+    <string name="contentDescription_phone_icon">Phone icon</string>
+    <string name="contentDescription_user_profile_image">User profile image</string>
+
+    <!-- Labels -->
+    <string name="label_linkedIn">LinkedIn</string>
+    <string name="label_email">Email</string>
+    <string name="label_call">Call</string>
+    <string name="label_description">Description</string>
+    <string name="label_hobbies">Hobbies</string>
+
+    <!-- Email subject-->
+    <string name="subject_meet_your_colleague">Meet your new colleague</string>
+</resources>

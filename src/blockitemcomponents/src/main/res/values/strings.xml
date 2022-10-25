@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Labels -->
+    <string name="label_downloading">Downloading…</string>
+    <string name="label_download_file">Tap to download the file</string>
+    <string name="label_open_file">Tap to open file</string>
+
+    <!--  Messages  -->
+    <string name="message_can_not_open_pdf_file">Can not open Pdf</string>
+</resources>
+

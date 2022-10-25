@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Paddings  -->
+    <dimen name="screen_padding">24dp</dimen>>
+    <dimen name="space_padding_extra_small">4dp</dimen>>
+    <dimen name="space_padding_small">8dp</dimen>>
+    <dimen name="space_padding_medium">16dp</dimen>>
+    <dimen name="space_padding_large">32dp</dimen>>
+    <dimen name="space_padding_extra_large">64dp</dimen>
+    <dimen name="button_size">40dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>>
+
+    <!--  Appbar height  -->
+    <dimen name="appbar_default_height">56dp</dimen>
+</resources>
